@@ -5,18 +5,18 @@ This is a solution to the [FAQ accordion challenge on Frontend Mentor](https://w
 ## Table of contents
 
 - [Frontend Mentor - FAQ accordion solution](#frontend-mentor---faq-accordion-solution)
-  - [Table of contents](#table-of-contents)
-  - [Overview](#overview)
-    - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
-    - [Links](#links)
-  - [My process](#my-process)
-    - [Built with](#built-with)
-    - [What I learned](#what-i-learned)
-    - [Continued development](#continued-development)
-    - [Useful resources](#useful-resources)
-  - [Author](#author)
-  - [FAQ ACCORDION](#faq-accordion)
+	- [Table of contents](#table-of-contents)
+	- [Overview](#overview)
+		- [The challenge](#the-challenge)
+		- [Screenshot](#screenshot)
+		- [Links](#links)
+	- [My process](#my-process)
+		- [Built with](#built-with)
+		- [What I learned](#what-i-learned)
+		- [Continued development](#continued-development)
+		- [Useful resources](#useful-resources)
+	- [Author](#author)
+	- [FAQ ACCORDION](#faq-accordion)
 
 ## Overview
 
@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Preview project source code](https://github.com/jidoG8/FAQ-ACCORDION.git)
+- Live Site URL: [Preview the live site](https://jidog8.github.io/FAQ-ACCORDION/)
 
 ## My process
 
@@ -251,4 +251,3 @@ faqButtons.forEach((button) => {
 - LinkedIn - [@ojja-caesar](https://www.linkedin.com/in/ojja-caesar-134980345/)
 
 ## FAQ ACCORDION
-# FAQ-ACCORDION
