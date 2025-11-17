@@ -38,7 +38,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Preview project source code](https://github.com/jidoG8/FAQ-ACCORDION.git)
-- Live Site URL: [Preview the live site](https://jidog8.github.io/FAQ-ACCORDION/)
+- Live Site URL: [Preview the live project](https://jidog8.github.io/FAQ-ACCORDION/)
 
 ## My process
 
